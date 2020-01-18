@@ -30,7 +30,7 @@
  */
 metadata {
 	definition (
-		name: "TELLDUS Mini modified Zooz", 
+		name: "TELLDUS Mini modified Zoozz", 
 		namespace: "brobergp", 
 		author: "Kevin LaFramboise (Pierre Broberg)",
 		vid:"generic-switch-power-energy"
